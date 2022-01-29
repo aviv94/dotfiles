@@ -1,0 +1,33 @@
+2022/01/28-07:29:13.922 3 Reusing MANIFEST /home/breini/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/28-07:29:13.923 3 Recovering log #199
+2022/01/28-07:29:13.923 3 Reusing old log /home/breini/.config/chromium/Default/Local Storage/leveldb/000199.log 
+2022/01/28-07:58:18.365 e Level-0 table #204: started
+2022/01/28-07:58:18.377 e Level-0 table #204: 389561 bytes OK
+2022/01/28-07:58:18.381 e Delete type=0 #199
+2022/01/28-07:58:27.596 b Level-0 table #206: started
+2022/01/28-07:58:27.609 b Level-0 table #206: 328177 bytes OK
+2022/01/28-07:58:27.613 b Delete type=0 #203
+2022/01/28-09:54:18.280 48 Level-0 table #208: started
+2022/01/28-09:54:18.290 48 Level-0 table #208: 13957 bytes OK
+2022/01/28-09:54:18.294 48 Delete type=0 #205
+2022/01/28-14:39:43.979 8f Level-0 table #210: started
+2022/01/28-14:39:43.989 8f Level-0 table #210: 95876 bytes OK
+2022/01/28-14:39:43.993 8f Delete type=0 #207
+2022/01/28-14:39:43.993 8f Compacting 4@0 + 1@1 files
+2022/01/28-14:39:44.003 8f Generated table #211@0: 517 keys, 808768 bytes
+2022/01/28-14:39:44.003 8f Compacted 4@0 + 1@1 files => 808768 bytes
+2022/01/28-14:39:44.006 8f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/28-14:39:44.007 8f Delete type=2 #210
+2022/01/28-14:39:44.007 8f Delete type=2 #204
+2022/01/28-14:39:44.007 8f Delete type=2 #201
+2022/01/28-14:39:44.007 8f Delete type=2 #208
+2022/01/28-14:39:44.007 8f Delete type=2 #206
+2022/01/28-17:01:52.459 9f Level-0 table #213: started
+2022/01/28-17:01:52.469 9f Level-0 table #213: 14048 bytes OK
+2022/01/28-17:01:52.473 9f Delete type=0 #209
+2022/01/28-20:09:57.335 111 Level-0 table #215: started
+2022/01/28-20:09:57.339 111 Level-0 table #215: 15157 bytes OK
+2022/01/28-20:09:57.343 111 Delete type=0 #212
+2022/01/28-23:08:05.298 134 Level-0 table #217: started
+2022/01/28-23:08:05.308 134 Level-0 table #217: 29406 bytes OK
+2022/01/28-23:08:05.312 134 Delete type=0 #214

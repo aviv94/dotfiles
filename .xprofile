@@ -1,0 +1,12 @@
+dwmblocks &
+xrandr --dpi 96 &
+st &
+#insmod /lib/modules/88x2bu.ko &
+#tmux&
+xcompmgr &
+$HOME/changebg &
+#xwallpaper --zoom .local/share/7.png&
+#setbg &
+#autostart = "mpd xcompmgr dunst unclutter pipewire"
+#exec dwm
+while type dwm >/dev/null ; do dwm && continue || break ; done

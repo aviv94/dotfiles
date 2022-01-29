@@ -1,0 +1,89 @@
+{
+   "checksum": "ed05cfb2c889aec8e6c168ece606e987",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13287353687910558",
+            "guid": "32efbd9f-90d9-4205-8749-f02a1cc8e322",
+            "id": "5",
+            "name": "GitHub - cilynx/rtl88x2bu: rtl88x2bu driver updated for current kernels.",
+            "type": "url",
+            "url": "https://github.com/cilynx/rtl88x2bu"
+         }, {
+            "date_added": "13287410563449753",
+            "guid": "13bdbb92-10f3-45a2-a5c9-a28663c81ac8",
+            "id": "18",
+            "name": "My dwm rice which suck less (0 Patch applied) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=g8_d2rnwQdo"
+         }, {
+            "date_added": "13287439493154419",
+            "guid": "69365fef-ac8a-44c0-90f2-8b67e3257df3",
+            "id": "20",
+            "name": "Wiby - Search Engine for the Classic Web",
+            "type": "url",
+            "url": "https://wiby.me/"
+         }, {
+            "date_added": "13287447050982273",
+            "guid": "c798a54b-a7da-425e-b6ca-6a1cbe02db03",
+            "id": "24",
+            "name": "Robb Report – The Best Luxury Cars, Jets, Yachts, Travel, Watches",
+            "type": "url",
+            "url": "https://robbreport.com/"
+         }, {
+            "date_added": "13287587367075567",
+            "guid": "b2fc45af-c3c0-4117-bb26-25cd307d4d6b",
+            "id": "32",
+            "name": "How To Unix For Loop 1 to 100 Numbers - nixCraft",
+            "type": "url",
+            "url": "https://www.cyberciti.biz/faq/unix-for-loop-1-to-10/"
+         }, {
+            "date_added": "13287741233874180",
+            "guid": "70548779-c8b0-4acd-a430-43e8378cbfbb",
+            "id": "34",
+            "name": "The GNU C Reference Manual",
+            "type": "url",
+            "url": "https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html"
+         }, {
+            "date_added": "13287741247682118",
+            "guid": "41c415c4-f601-4dc3-9505-8b3646968eea",
+            "id": "35",
+            "name": "Introduction to Linux",
+            "type": "url",
+            "url": "https://linux.die.net/Intro-Linux/"
+         }, {
+            "date_added": "13287750836916478",
+            "guid": "589374e3-be42-47f4-a6bd-07d8df360e00",
+            "id": "36",
+            "name": "Exercises",
+            "type": "url",
+            "url": "https://linux.die.net/Intro-Linux/sect_04_06.html"
+         } ],
+         "date_added": "13287353335242092",
+         "date_modified": "13287750836916478",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13287353335242093",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13287353335242094",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

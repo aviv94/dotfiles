@@ -1,0 +1,6 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Battle.net/Battle.net Launcher.exe
+  prefix: /home/breini/.local/Games/world-of-warcraft-classic
+wine:
+  version: lutris-fshack-6.21-6-x86_64
